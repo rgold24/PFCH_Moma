@@ -1,0 +1,11 @@
+
+In working on this project, I first attempted to use MoMA's Artists csv file, which is found on the museum's website, to analyze both the gender dynamics of the collection and the issues those dynamics present. 
+
+I immediately encountered an important issue: the csv file only allows for binary genders. Additionally, there is no way to indicate the gender identity of members of artists' collectives or of artists who work collaboratively. In my view, this information is critical, and its omission from the csv file prevents researchers from seeing the full picture. I also wanted to see if there was a larger representation of women in collectives, versus solo artists.
+
+I ended up creating a script to clean the data in the Artists.csv file. This script can then be used a tool to answer research questions. My next steps will be to examine the gender dynamics of various groups of artists and how often these groups appear/are mentioned, and to create a new csv file that includes this information and that can be merged with the existing MoMA csv.
+
+Finally, I plan to continue to work on this project and explore other Python modules, including Regex.
+ 
+In the two scripts : moma1.py, and moma4,py, I used the CSV module. 
+
